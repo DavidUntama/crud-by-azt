@@ -1,0 +1,1 @@
+Codigo fuente actualizado sobre el t utorial de FAzt sobre un CRUD  usando node.js mysql y en el lado del cliente Angular 17 el tutorial se encuentra en el siguiente enlace: https://www.youtube.com/watch?v=lxYB79ANJM8&t=10650s
